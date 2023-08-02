@@ -32,7 +32,7 @@ namespace AkbilYonetimiIsKatmani
                 a += ba.ToString("x2").ToLower();
             }
 
-            //We returned the hexadecimal string.
+            //We returned the hexadecimal string
             //   return sb.ToString();
             return a;
         }
